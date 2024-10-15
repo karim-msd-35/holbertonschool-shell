@@ -1,2 +1,2 @@
 #!/bin/bash
-mv *.M /tmp/u
+mv *.M tmp/u
