@@ -1,2 +1,2 @@
 #!/bin/bash
-cp tmp/ *.html /holbertonschool-shell
+cp tmp/*.html /holbertonschool-shell
