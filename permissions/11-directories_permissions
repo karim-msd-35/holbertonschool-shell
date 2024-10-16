@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R --recursif  a+x ls-R 
+chmod -R a+x ./*/
