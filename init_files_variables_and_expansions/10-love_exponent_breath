@@ -1,3 +1,2 @@
 #!/bin/bash
- export BREATH="5" LOVE="10" | echo $((BREATH**LOVE ))
-
+export BREATH="5" LOVE="10" | echo $((BREATH**LOVE ))
